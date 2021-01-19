@@ -1,0 +1,169 @@
+{
+  "main": {
+    "name": "Nevil Ghelani",
+    "occupation": "Android developer",
+    "description": "with 3 years of coding experience and more than 2 years of work experience",
+    "image": "me.jpg",
+    "about": [
+      {
+        "bio": "I am an experienced Android developer and interested in the latest technologies and trends."
+      },
+      {
+        "bio": "I am studying computer engineering at Sarvajanik College of Engineering and Technology in Surat, India. During my studies, I am acquiring work experience in various fields and lately I am concentrating on software development on the Android platform."
+      },
+      {
+        "bio": "I have in total over two and a half years of active Android development experience. I have worked on numerous applications used by many people. A social media for memes with meme creator is one of my best apps."
+      },
+      {
+        "bio": "I am eager to constantly learn new things. At the moment, my focus is on the new Java 8 and 9 language features, RxJava and RxAndroid, Kotlin, architectural patterns on Android (MVVM, MVP, etc.) and of course I am always up for trying out the newest Android libraries."
+      },
+      {
+        "bio": "For a comprehensive list of my work, please refer to my work page."
+      }
+    ],
+    "contactmessage": "Get in touch for more cooler apps.",
+    "email": "nevilghelani99612@gmail.com",
+    "phone": "+91 7202998827",
+    "address": {
+      "street": "Haridarshan society, Opp. Sarjan Residency, Causeway road, Katargam,",
+      "city": "Surat,",
+      "state": "Gujarat, IN",
+      "zip": "395004"
+    },
+    "website": "http://shrewd-developers.firebaseapp.com/",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1X6-JLIfWev0V0DyWNJF86qlJl7OGVFt5",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nevil-ghelani-618171148/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/nmghelani",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/9850128/nevil-ghelani/",
+        "className": "fa fa-stack-overflow"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My major skill is Native Android Application Development. I have also worked as a team lead in one of my projects. And I have always guided and helped my juniors with their queries and bugs.",
+    "education": [
+      {
+        "school": "Sarvajanik College of Engineering & Technology",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "May, 2017 - Currently attending",
+        "description": "Current CGPA is 8.29. Expected graduation completion in April, 2021"
+      },
+      {
+        "school": "Red and White Multimedia Education",
+        "degree": "Diploma in Advanced Android",
+        "graduated": "January, 2018 - July, 2018",
+        "description": "Advanced android course completed in 7 months"
+      }
+    ],
+    "work": [
+      {
+        "company": "DCoder",
+        "title": "Android Developer Intern",
+        "years": "December, 2020 - Present",
+        "description": "I am working on their existing app with 2M+ userbase. I have done major UI changes and also implemented quick filtering with gestures. We are continuously working on improving the app and giving the best user experience."
+      },
+      {
+        "company": "AnnexTech",
+        "title": "Android Developer Intern",
+        "years": "June, 2020 - December, 2020",
+        "description": "I was working on their finance managment app. I have modified their exisiting network library. I have also done UI testing with UIAutomator/Espresso, API testing with JMeter and API security testing with Vooki RestAPI scanner."
+      },
+      {
+        "company": "Octfis Techno LLP",
+        "title": "Android Developer/Web Developer",
+        "years": "May, 2019 - December, 2019",
+        "description": "I have updated their existing call recording app and also built 2 hybrid apps at Android side. I got training for web development with .NET technology."
+      },
+      {
+        "company": "DesignCut",
+        "title": "Android Developer Intern",
+        "years": "December, 2018 - May, 2019",
+        "description": "I was a full stack developer and I built an E-commerce app from scratch using Firebase as Backend service."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Android app development (Java)",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "100%"
+      },
+      {
+        "name": "Web Development with ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "openCV (Python)",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Diddle - A meme platform",
+        "category": "Social media and a meme creator with around 9k userbase (Android + Firebase)",
+        "image": "diddle.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.develop.diddleapp"
+      },
+      {
+        "title": "Cycles4Change",
+        "category": "Government's project to spread awareness of cycling with all the required functinalities for cyclers (Android + Firebase + Google Maps APIs)",
+        "image": "cycles4change.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.cycles4change"
+      },
+      {
+        "title": "Health-card app",
+        "category": "Physical healthcard for each person to get rid of hospital files (Android + Firebase + NFC)",
+        "image": "healcard.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.healthcard"
+      },
+      {
+        "title": "WebFlix",
+        "category": "A streaming app for movies & web series (Android + PHP) (unfortunately removed by play store)",
+        "image": "webflix.png",
+        "url": "https://drive.google.com/file/d/1u3sV09f_FjIas80Ahdw1Zj2vGwrDec2n/view"
+      },
+      {
+        "title": "The Engineer's Shop",
+        "category": "E-commerce platform to buy and sell electronic items especially for engineers (Android + Firebase)",
+        "image": "engineershop.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.develop.tes"
+      },
+      {
+        "title": "Obsidroid",
+        "category": "A rover bot that can pick-up and drop objects, controlled by mobile app or voice commands (Work in progress)",
+        "image": "obsidroid.png",
+        "url": "https://drive.google.com/file/d/1qRPFVxPeB0H1EmSWmumDUpYhbscJeXvK/view"
+      },
+      {
+        "title": "Country by barcode",
+        "category": "A barcode scanner to get origin of product manufacturer",
+        "image": "scanner.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.develop.barcodescanner"
+      },
+      {
+        "title": "Quotes Factory",
+        "category": "Quotes in six different languages with various categories",
+        "image": "quotes.png",
+        "url": "https://play.google.com/store/apps/details?id=com.shrewd.Freedevelop.scintillatingQuotes"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
