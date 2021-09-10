@@ -1,41 +1,41 @@
 {
   "main": {
     "name": "Nevil Ghelani",
-    "occupation": "Android developer",
+    "occupation": "Software Developer",
     "description": "with 3 years of coding experience and more than 2 years of work experience",
     "image": "me.jpg",
     "about": [
       {
-        "bio": "I am an experienced Android developer and interested in the latest technologies and trends."
+        "bio": "I am a Software Developer with more interest in the latest technologies and trends."
       },
       {
-        "bio": "I am studying computer engineering at Sarvajanik College of Engineering and Technology in Surat, India. During my studies, I am acquiring work experience in various fields and lately I am concentrating on software development on the Android platform."
+        "bio": "I completed my bachelor's in Computer Engineering from Gujarat Technological University in India. I acquired work experience in various fields during my undergrad as an Intern. Lately, I am concentrating on improving my problem-solving skills and knowledge of DS and Algorithms."
       },
       {
-        "bio": "I have in total over two and a half years of active Android development experience. I have worked on numerous applications used by many people. A social media for memes with meme creator is one of my best apps."
+        "bio": "I am eager to constantly learn new things. At the moment, my focus is on delving deeper into algorithms. I am also learning back-end development and of course, I am always up for trying out newer things whether it is Technical or some crazy life things."
       },
       {
-        "bio": "I am eager to constantly learn new things. At the moment, my focus is on the new Java 8 and 9 language features, RxJava and RxAndroid, Kotlin, architectural patterns on Android (MVVM, MVP, etc.) and of course I am always up for trying out the newest Android libraries."
+        "bio": "For a comprehensive list of my work & experiences, please refer to my work page."
       },
       {
-        "bio": "For a comprehensive list of my work, please refer to my work page."
+        "bio": "In case you are interested in cooperating with me, do not hesitate to contact me."
       }
     ],
     "contactmessage": "Get in touch for more cooler apps.",
-    "email": "nevilghelani99612@gmail.com",
-    "phone": "+91 7202998827",
+    "email": "nevilghelani99@gmail.com",
+    "phone": "+1 (551)-689-7927",
     "address": {
-      "street": "Haridarshan society, Opp. Sarjan Residency, Causeway road, Katargam,",
-      "city": "Surat,",
-      "state": "Gujarat, IN",
-      "zip": "395004"
+      "street": "87 Paterson st",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307"
     },
     "website": "http://shrewd-developers.firebaseapp.com/",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1X6-JLIfWev0V0DyWNJF86qlJl7OGVFt5",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1U_JsNoAlv5Oq7xUI141JeqbpE8AlMPY9",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nevil-ghelani-618171148/",
+        "url": "https://www.linkedin.com/in/nevil-ghelani/",
         "className": "fa fa-linkedin"
       },
       {
@@ -51,13 +51,13 @@
     ]
   },
   "resume": {
-    "skillmessage": "My major skill is Native Android Application Development. I have also worked as a team lead in one of my projects. And I have always guided and helped my juniors with their queries and bugs.",
+    "skillmessage": "I got experties in Native Android Application Development. I have also worked as a team lead in one of my projects. And I have always guided and helped my juniors with their queries and bugs.",
     "education": [
       {
-        "school": "Sarvajanik College of Engineering & Technology",
+        "school": "Gujarat Technological University",
         "degree": "Bachelor's Degree, Computer Engineering",
         "graduated": "May, 2017 - Currently attending",
-        "description": "Current CGPA is 8.29. Expected graduation completion in April, 2021"
+        "description": "GPA: 3.7"
       },
       {
         "school": "Red and White Multimedia Education",
@@ -70,44 +70,48 @@
       {
         "company": "DCoder",
         "title": "Android Developer Intern",
-        "years": "December, 2020 - Present",
-        "description": "I am working on their existing app with 2M+ userbase. I have done major UI changes and also implemented quick filtering with gestures. We are continuously working on improving the app and giving the best user experience."
+        "years": "December, 2020 - May, 2020",
+        "description": "I worked with the MVVM architecture deeply. I have contributed to app's growth features, fixing production bugs and UI design. I have created an open source library to implement 3D touch dialog."
       },
       {
         "company": "AnnexTech",
         "title": "Android Developer Intern",
         "years": "June, 2020 - December, 2020",
-        "description": "I was working on their finance managment app. I have modified their exisiting network library. I have also done UI testing with UIAutomator/Espresso, API testing with JMeter and API security testing with Vooki RestAPI scanner."
+        "description": "I collaborated with Android and Backend engineer and built a complete residential finance management app. I also contributed as a software tester and gave a rise to UI and API testing"
       },
       {
         "company": "Octfis Techno LLP",
-        "title": "Android Developer/Web Developer",
-        "years": "May, 2019 - December, 2019",
-        "description": "I have updated their existing call recording app and also built 2 hybrid apps at Android side. I got training for web development with .NET technology."
+        "title": "Web Developer",
+        "years": "May, 2019 - May, 2020",
+        "description": "I worked on web development using .NET framework with other senior developers. I also worked as an android developer for two months and brought out some basic utility apps for the company."
       },
       {
         "company": "DesignCut",
         "title": "Android Developer Intern",
         "years": "December, 2018 - May, 2019",
-        "description": "I was a full stack developer and I built an E-commerce app from scratch using Firebase as Backend service."
+        "description": "I worked as a freelancer to develop an e-commerce app for engineering products. I contributed as a full stack developer and comlpeted the entire app."
       }
     ],
     "skills": [
       {
-        "name": "Android app development (Java)",
-        "level": "100%"
+        "name": "Android development & architecture",
+        "level": "98%"
       },
       {
-        "name": "Firebase",
-        "level": "100%"
+        "name": "Object oriented programming with JAVA",
+        "level": "98%"
       },
       {
-        "name": "Web Development with ReactJs",
-        "level": "70%"
+        "name": "Problem solving, UI Design and Debugging",
+        "level": "95%"
       },
       {
-        "name": "openCV (Python)",
-        "level": "60%"
+        "name": "Backend with firebase",
+        "level": "90%"
+      },
+      {
+        "name": "Git version control",
+        "level": "90%"
       }
     ]
   },
@@ -132,6 +136,12 @@
         "url": "https://play.google.com/store/apps/details?id=com.shrewd.healthcard"
       },
       {
+        "title": "Obsidroid",
+        "category": "A rover bot that can pick-up and drop objects, controlled by mobile app or voice commands (Work in progress)",
+        "image": "obsidroid.png",
+        "url": "https://www.youtube.com/watch?v=5vXJJaiTJHQ"
+      },
+      {
         "title": "WebFlix",
         "category": "A streaming app for movies & web series (Android + PHP) (unfortunately removed by play store)",
         "image": "webflix.png",
@@ -142,12 +152,6 @@
         "category": "E-commerce platform to buy and sell electronic items especially for engineers (Android + Firebase)",
         "image": "engineershop.png",
         "url": "https://play.google.com/store/apps/details?id=com.shrewd.develop.tes"
-      },
-      {
-        "title": "Obsidroid",
-        "category": "A rover bot that can pick-up and drop objects, controlled by mobile app or voice commands (Work in progress)",
-        "image": "obsidroid.png",
-        "url": "https://drive.google.com/file/d/1qRPFVxPeB0H1EmSWmumDUpYhbscJeXvK/view"
       },
       {
         "title": "Country by barcode",
