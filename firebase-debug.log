@@ -1,0 +1,72 @@
+[debug] [2022-04-06T18:03:56.897Z] ----------------------------------------------------------------------
+[debug] [2022-04-06T18:03:56.898Z] Command:       /usr/local/bin/firebase /Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase deploy
+[debug] [2022-04-06T18:03:56.899Z] CLI Version:   10.6.0
+[debug] [2022-04-06T18:03:56.899Z] Platform:      darwin
+[debug] [2022-04-06T18:03:56.899Z] Node Version:  v12.18.1
+[debug] [2022-04-06T18:03:56.899Z] Time:          Wed Apr 06 2022 14:03:56 GMT-0400 (Eastern Daylight Time)
+[debug] [2022-04-06T18:03:56.899Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-06T18:03:56.954Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-06T18:03:56.955Z] > authorizing via signed-in user (nevilghelani99@gmail.com)
+[debug] [2022-04-06T18:03:56.955Z] [iam] checking project my-portfolio-99612 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2022-04-06T18:03:56.957Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/my-portfolio-99612:testIamPermissions [none]
+[debug] [2022-04-06T18:03:56.957Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/my-portfolio-99612:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2022-04-06T18:03:57.362Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/my-portfolio-99612:testIamPermissions 200
+[debug] [2022-04-06T18:03:57.363Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/my-portfolio-99612:testIamPermissions {}
+[debug] [2022-04-06T18:03:57.363Z] [iam] error while checking permissions, command may fail: FirebaseError: Authorization failed. This account is missing the following required permissions on project my-portfolio-99612:
+
+  firebase.projects.get
+  firebasehosting.sites.update
+[debug] [2022-04-06T18:03:57.365Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 [none]
+[debug] [2022-04-06T18:03:57.782Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 403
+[debug] [2022-04-06T18:03:57.782Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2022-04-06T18:03:57.784Z] HTTP Error: 403, The caller does not have permission
+[debug] [2022-04-06T18:03:57.837Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+    at module.exports (/Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/responseToError.js:47:12)
+    at RetryOperation._fn (/Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/apiv2.js:286:39)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error] 
+[error] Error: Failed to get Firebase project my-portfolio-99612. Please make sure the project exists and your account has permission to access it.
+[debug] [2022-04-06T18:04:29.496Z] ----------------------------------------------------------------------
+[debug] [2022-04-06T18:04:29.498Z] Command:       /usr/local/bin/firebase /Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init hosting
+[debug] [2022-04-06T18:04:29.498Z] CLI Version:   10.6.0
+[debug] [2022-04-06T18:04:29.498Z] Platform:      darwin
+[debug] [2022-04-06T18:04:29.498Z] Node Version:  v12.18.1
+[debug] [2022-04-06T18:04:29.501Z] Time:          Wed Apr 06 2022 14:04:29 GMT-0400 (Eastern Daylight Time)
+[debug] [2022-04-06T18:04:29.501Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-06T18:04:29.559Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-06T18:04:29.560Z] > authorizing via signed-in user (nevilghelani99@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/nevilghelani/My files/Website/react-portfolio-master
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-04-06T18:04:29.564Z] Using project from CLI flag: my-portfolio-99612
+[debug] [2022-04-06T18:04:29.569Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 [none]
+[debug] [2022-04-06T18:04:29.947Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 403
+[debug] [2022-04-06T18:04:29.947Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/my-portfolio-99612 {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2022-04-06T18:04:29.948Z] HTTP Error: 403, The caller does not have permission
+[debug] [2022-04-06T18:04:30.010Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+    at module.exports (/Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/responseToError.js:47:12)
+    at RetryOperation._fn (/Users/nevilghelani/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/apiv2.js:286:39)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[error] 
+[error] Error: Failed to get Firebase project my-portfolio-99612. Please make sure the project exists and your account has permission to access it.

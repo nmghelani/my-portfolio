@@ -31,7 +31,7 @@
       "zip": "07307"
     },
     "website": "http://shrewd-developers.firebaseapp.com/",
-    "resumedownload": "https://drive.google.com/uc?export=download&id=1U_JsNoAlv5Oq7xUI141JeqbpE8AlMPY9",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1si22KoE2AIC620Ynv0_C-tkBAli7tFkr",
     "social": [
       {
         "name": "linkedin",
@@ -54,16 +54,22 @@
     "skillmessage": "I got experties in Native Android Application Development. I have also worked as a team lead in one of my projects. And I have always guided and helped my juniors with their queries and bugs.",
     "education": [
       {
+        "school": "Stevens Institute of Technology",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "August, 2021 - Expected December, 2022",
+        "description": "GPA: 3.83"
+      },
+      {
         "school": "Gujarat Technological University",
         "degree": "Bachelor's Degree, Computer Engineering",
-        "graduated": "May, 2017 - Currently attending",
+        "graduated": "May, 2017 - June, 2021",
         "description": "GPA: 3.7"
       },
       {
         "school": "Red and White Multimedia Education",
         "degree": "Diploma in Advanced Android",
         "graduated": "January, 2018 - July, 2018",
-        "description": "Advanced android course completed in 7 months"
+        "description": "Advanced android development course of 7 months where I got in-depth knowledge of android application development using Java."
       }
     ],
     "work": [
@@ -94,16 +100,24 @@
     ],
     "skills": [
       {
-        "name": "Android development & architecture",
+        "name": "Backend development with Nodejs + Mongodb",
         "level": "98%"
+      },
+      {
+        "name": "Android development & architecture",
+        "level": "95%"
       },
       {
         "name": "Object oriented programming with JAVA",
-        "level": "98%"
+        "level": "95%"
+      },
+      {
+        "name": "Frontend development with React",
+        "level": "95%"
       },
       {
         "name": "Problem solving, UI Design and Debugging",
-        "level": "95%"
+        "level": "93%"
       },
       {
         "name": "Backend with firebase",
@@ -117,6 +131,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Online cloth store",
+        "category": "An E-commerce website to buy Indian clothes all over the world (Nodejs + MongoDB)",
+        "image": "dreamwear.png",
+        "url": "http://globaldreamwear.herokuapp.com/"
+      },
       {
         "title": "Diddle - A meme platform",
         "category": "Social media and a meme creator with around 9k userbase (Android + Firebase)",
@@ -137,9 +157,15 @@
       },
       {
         "title": "Obsidroid",
-        "category": "A rover bot that can pick-up and drop objects, controlled by mobile app or voice commands (Work in progress)",
+        "category": "A rover bot that can pick-up and drop objects, controlled by mobile app or voice commands (OpenCV + Android + ML)",
         "image": "obsidroid.png",
         "url": "https://www.youtube.com/watch?v=5vXJJaiTJHQ"
+      },
+      {
+        "title": "re$ale",
+        "category": "It connects buyers to sellers and sellers to buyers, promising great products and prices. (Nodejs + MongoDB)",
+        "image": "resale.png",
+        "url": "https://resale-cs546.herokuapp.com/"
       },
       {
         "title": "WebFlix",
@@ -164,6 +190,12 @@
         "category": "Quotes in six different languages with various categories",
         "image": "quotes.png",
         "url": "https://play.google.com/store/apps/details?id=com.shrewd.Freedevelop.scintillatingQuotes"
+      },
+      {
+        "title": "Coming soon...",
+        "category": "Some projects are currently under development. Come back to see the updated project list.",
+        "image": "coming_soon.png",
+        "url": ""
       }
     ]
   },
