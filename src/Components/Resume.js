@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 class Resume extends Component {
   render() {
     if (this.props.data) {
@@ -24,7 +23,14 @@ class Resume extends Component {
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+            <p>
+              {work.description.map((bullet) => (
+                <div>
+                  {bullet}
+                  <br />
+                </div>
+              ))}
+            </p>
           </div>
         );
       });

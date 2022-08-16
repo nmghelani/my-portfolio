@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "firebase-tools": "^10.6.0",
+    "html-to-react": "^1.5.0",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
